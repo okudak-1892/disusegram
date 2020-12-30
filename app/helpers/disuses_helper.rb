@@ -1,0 +1,2 @@
+module DisusesHelper
+end
