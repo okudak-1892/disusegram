@@ -1,9 +1,9 @@
 # README
-Ruby on Rails を用いたWebアプリです。
-不用品を譲渡し合うことを目的したアプリで、自分の不用品を写真付きで投稿できます。
-https://disusegram.herokuapp.com
----email:demo@demo.com password:demodemo
-※Chrome推奨
+Ruby on Rails を用いたWebアプリです。<br>
+不用品を譲渡し合うことを目的したアプリで、自分の不用品を写真付きで投稿できます。<br>
+https://disusegram.herokuapp.com<br>
+---email:demo@demo.com password:demodemo<br>
+※Chrome推奨<br>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
