@@ -5,6 +5,7 @@ Ruby on Rails を用いたWebアプリです。<br>
 https://disusegram.herokuapp.com<br>
 ---email:demo@demo.com password:demodemo<br>
 ※Chrome推奨<br>
+----------------------------------------------------------------------------------<br>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
